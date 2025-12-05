@@ -48,7 +48,7 @@ export default function Header() {
         </div>
 
         <a
-          href="https://drive.usercontent.google.com/download?id=1W3bXTzWHTEU3-vBk4AYunp_jxxrYajGm&export=download&authuser=0&confirm=t&uuid=fcb5730b-0b84-4b1c-ac63-62b4bd035a8c&at=ALWLOp5UkbIuuTZ47KJ2Zdr_LBof:1764170852379"
+          href="/Maroub Wajdi CV.pdf"
           className="hidden sm:inline-flex items-center gap-2 text-xs px-3 py-1.5 rounded-full border border-emerald-500/40 bg-emerald-500/10 hover:bg-emerald-500/20 hover:border-emerald-400 transition"
         >
           <span>Download CV</span>
