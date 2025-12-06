@@ -51,7 +51,7 @@ export default function Contact() {
                 </p>
                 <div className="flex flex-wrap gap-3 text-sm">
                   <a
-                    href="https://github.com/your-github"
+                    href="https://github.com/MaroubW"
                     target="_blank"
                     rel="noreferrer"
                     className="text-slate-200 hover:text-emerald-300"
@@ -59,7 +59,7 @@ export default function Contact() {
                     GitHub
                   </a>
                   <a
-                    href="https://linkedin.com/in/your-linkedin"
+                    href="https://www.linkedin.com/in/maroub-wajdi-aa5957398/"
                     target="_blank"
                     rel="noreferrer"
                     className="text-slate-200 hover:text-emerald-300"
