@@ -59,7 +59,7 @@ export default function Contact() {
                     GitHub
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/maroub-wajdi-aa5957398/"
+                    href="https://www.linkedin.com/in/maroub-wajdi/"
                     target="_blank"
                     rel="noreferrer"
                     className="text-slate-200 hover:text-emerald-300"

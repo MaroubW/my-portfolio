@@ -10,7 +10,7 @@ const projects = [
       "Secure online payments with Konnect.",
       "Admin dashboard for management and analytics.",
     ],
-    link: "https://github.com/your-github/stadium-app",
+    link: "https://github.com/ahmed440-coder/takwira.git",
   },
   {
     title: "Student Recipe Management App",
